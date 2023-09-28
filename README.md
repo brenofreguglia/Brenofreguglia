@@ -9,8 +9,9 @@
 - 💻 Desenvolvimento web
 - 🥋 Judô
 - 📖 Aprendendo constantemente
+- 🎮 Amo jogos 
 
 ## Contato
 - 📧 Email: freguglia.breno@gmail.com
--
+
 
