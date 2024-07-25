@@ -26,7 +26,7 @@
 > ## Meu projetos / Participei
 
  > <a href="https://github.com/brenofreguglia/Park-Now">
-  <img align="center" height="150" src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow" alt="ParkNow" />
+  <img align="center" height="150" src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow.png" alt="ParkNow" />
 </a>
 
  > <a href="https://github.com/Otavig/MidiaIndoor">
