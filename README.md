@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" title="React Navigation" alt="React Navigation" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Otavig/Otavig/blob/main/expo-go-app.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/expo-go-app.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
 
 
 > ## Meu projetos / Participei
