@@ -23,11 +23,13 @@
   <img src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/expo-go-app.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
 
 
-> ## Meu projetos / Participei
+> ## Meu projetos 
 
  > <a href="https://github.com/brenofreguglia/Park-Now">
   <img align="center" height="150" src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow.png" alt="ParkNow" />
 </a>
+
+## Projetos que participei
 
  > <a href="https://github.com/Otavig/MidiaIndoor">
   <img align="center" height="150" src="https://github.com/Otavig/MidiaIndoor/raw/main/midias/87b12c69971a2c5ca116b86bc18c9ed4.png" alt="Midia Indoor" />
