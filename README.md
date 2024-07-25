@@ -24,15 +24,18 @@
 
 
 > ## Meu projetos 
-
-- **Park-Now**
+>- **Park-Now**
   Um aplicativo de reserva de estacionamento que desenvolvi para facilitar a gestão de vagas em áreas urbanas.
 
-  ![Park-Now](https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow" alt="ParkNow(https://github.com/brenofreguglia/Park-Now))
+ > <a href="https://github.com/brenofreguglia/Park-Now">
+  <img align="center" height="150" src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow.png" alt="ParkNow" />
+</a>
 
 
 
 > ## Projetos que participei
+> - **Mídia Indoor**
+  Colaboração em um sistema de exibição de conteúdo digital para ambientes internos.
 
  > <a href="https://github.com/Otavig/MidiaIndoor">
   <img align="center" height="150" src="https://github.com/Otavig/MidiaIndoor/raw/main/midias/87b12c69971a2c5ca116b86bc18c9ed4.png" alt="Midia Indoor" />
@@ -40,5 +43,16 @@
 
 
 ## Contato
-- 📧 (freguglia.breno@gmail.com)
+
+<button>
+    <a href = "https://www.instagram.com/breno_freguglia/?next=%2F">  
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> 
+    </a>
+</button>
+
+<button>
+    <a href = "https://www.linkedin.com/in/breno-freguglia-15329a307/">  
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</button>
 
