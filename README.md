@@ -4,6 +4,7 @@
   # Olá, sou Breno Henrique Guimarães Freguglia, seja bem-vindo 
   ## É um prazer ter você por aqui e querer conhecer um pouco sobre mim
 
+  `Sou um estudante e um desenvolvedor mobile\web`
 
 ### Formação \ Cursos
 
