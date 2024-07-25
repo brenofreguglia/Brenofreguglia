@@ -25,9 +25,12 @@
 
 > ## Meu projetos 
 
- > <a href="https://github.com/brenofreguglia/Park-Now">
-  <img align="center" height="150" src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow.png" alt="ParkNow" />
-</a>
+- **Park-Now**
+  Um aplicativo de reserva de estacionamento que desenvolvi para facilitar a gestão de vagas em áreas urbanas.
+
+  ![Park-Now](https://github.com/brenofreguglia/Park-Now)
+
+
 
 > ## Projetos que participei
 
