@@ -18,9 +18,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactnavigation/reactnavigation-original.svg" title="React Navigation" alt="React" width="40" height="40"/>&nbsp;
+  <img src="" title="React Navigation" alt="React" width="40" height="40"/>&nbsp;
 
-> ## Meu projetos
+> ## Meu projetos / Participei
+
+<a href="https://github.com/brenofreguglia/Park-Now">
+  <img align="center" height="150" src="https://github.com/brenofreguglia/Brenofreguglia/blob/main/ParkNow" alt="ParkNow" />
+</a>
+
 <a href="https://github.com/Otavig/MidiaIndoor">
   <img align="center" height="150" src="https://github.com/Otavig/MidiaIndoor/raw/main/midias/87b12c69971a2c5ca116b86bc18c9ed4.png" alt="Midia Indoor" />
 </a>
