@@ -1,5 +1,5 @@
 
-  
+  <img src="Gif.gif" alt="gif"  width= 100%  height = 250>
   
   # Olá, sou Breno Henrique Guimarães Freguglia, seja bem-vindo 
   ## É um prazer ter você por aqui e querer conhecer um pouco sobre mim
