@@ -24,7 +24,7 @@
 
 
 > ## Meu projetos 
->- `**Park-Now**`
+>- ***Park-Now***
   Um aplicativo de reserva de estacionamento que desenvolvi para facilitar a gestão de vagas em áreas urbanas.
 
   <a href="https://github.com/brenofreguglia/Park-Now">
@@ -32,7 +32,7 @@
 </a>
 
 > ## Projetos que participei
-> - `**Mídia Indoor**`
+> - ***Mídia Indoor***
   Colaboração em um sistema de exibição de conteúdo digital para ambientes internos.
 
  <a href="https://github.com/Otavig/MidiaIndoor">
