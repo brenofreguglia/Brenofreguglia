@@ -10,6 +10,8 @@ Seja muito bem-vindo(a) ao meu perfil! É um prazer ter você por aqui.
 
 - Análise e Desenvolvimento de Sistemas — *SENAI (2 anos)*
 - Fundamentos de Google Cloud Computing (GCP) — *SENAI*
+- Programação em Python em Raspberry — *SENAI*
+- Microsoft Power-Bi — *SENAI*
 - Microsoft DP-900: Fundamentos de Dados na Nuvem — *Microsoft*
 
 ---
