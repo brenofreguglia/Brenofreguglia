@@ -18,7 +18,7 @@ Seja muito bem-vindo(a) ao meu perfil! É um prazer ter você por aqui.
 
 ## Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,react,c,php,figma,npm,linux,solidjs,vscode,windows&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,react,c,php,figma,npm,linux,solidjs&theme=dark&perline=6)](https://skillicons.dev)
 
 ---
 
