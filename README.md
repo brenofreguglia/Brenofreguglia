@@ -5,6 +5,11 @@ Seja muito bem-vindo(a) ao meu perfil! É um prazer ter você por aqui.
 🎓 **Sou estudante e desenvolvedor Mobile e Web**, com foco em React Native, Node.js e soluções voltadas à experiência do usuário. Tenho grande interesse por tecnologia, inovação e projetos que tragam impacto real.
 
 ---
+## Curriculo
+
+> https://brenofreguglia.github.io/Curriculo/cv.pdf
+
+---
 
 ## Formação & Cursos
 
