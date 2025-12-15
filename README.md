@@ -29,7 +29,7 @@ Seja muito bem-vindo(a) ao meu perfil! É um prazer ter você por aqui.
 
 ## Projetos Pessoais
 
-### <img src="https://raw.githubusercontent.com/brenofreguglia/Park-NowAPP/main/front-enda/assets/icon.png" width="50" height="50" /> [Park-Now](https://github.com/brenofreguglia/Park-Now)  
+### <img src="https://github.com/brenofreguglia/Park-NowAPP/blob/main/WebApp/assets/icon.png" width="50" height="50" /> [Park-Now](https://github.com/brenofreguglia/Park-Now)  
 Aplicativo mobile desenvolvido com **React Native** e **Expo Go**, focado em facilitar a busca, seleção e reserva de vagas de estacionamento em áreas urbanas. Possui uma interface intuitiva e responsiva, voltada para a experiência do usuário.
 
 > ⚠️ *O projeto está em desenvolvimento. A versão atual representa o progresso até o momento.*
