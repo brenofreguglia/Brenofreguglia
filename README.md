@@ -1,52 +1,53 @@
-# 👋🏻 Olá, eu sou Breno Henrique Guimarães Freguglia
+# 👋🏻 Hi, I'm Breno Henrique Guimarães Freguglia
 
-Seja muito bem-vindo(a) ao meu perfil! É um prazer ter você por aqui.
+Welcome to my profile! It’s a pleasure to have you here.
 
-🎓 **Sou estudante e desenvolvedor Mobile e Web**, com foco em React Native, Node.js e soluções voltadas à experiência do usuário. Tenho grande interesse por tecnologia, inovação e projetos que tragam impacto real.
+🎓 **I am a Mobile and Web Development student and developer**, with a strong focus on React Native, Node.js, and user experience–driven solutions. I have a strong interest in technology, innovation, and projects that generate real-world impact.
 
 ---
-## Curriculo
+
+## Resume
 
 > https://brenofreguglia.github.io/Curriculo/cv.pdf
 
 ---
 
-## Formação & Cursos
+## Education & Courses
 
-- Análise e Desenvolvimento de Sistemas — *SENAI (2 anos)*
-- Fundamentos de Google Cloud Computing (GCP) — *SENAI*
-- Programação em Python em Raspberry — *SENAI*
-- Microsoft Power-Bi — *SENAI*
-- Microsoft DP-900: Fundamentos de Dados na Nuvem — *Microsoft*
+- Systems Analysis and Development — *SENAI (2 years)*
+- Google Cloud Computing (GCP) Fundamentals — *SENAI*
+- Python Programming with Raspberry Pi — *SENAI*
+- Microsoft Power BI — *SENAI*
+- Microsoft DP-900: Azure Data Fundamentals — *Microsoft*
 
 ---
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,react,c,php,figma,npm,linux,solidjs&theme=dark&perline=6)](https://skillicons.dev)
 
 ---
 
-## Projetos Pessoais
+## Personal Projects
 
 ### <img src="https://github.com/brenofreguglia/Park-NowAPP/blob/main/WebApp/assets/icon.png" width="50" height="50" /> [Park-Now](https://github.com/brenofreguglia/Park-Now)  
-Aplicativo mobile desenvolvido com **React Native** e **Expo Go**, focado em facilitar a busca, seleção e reserva de vagas de estacionamento em áreas urbanas. Possui uma interface intuitiva e responsiva, voltada para a experiência do usuário.
+A mobile application developed with **React Native** and **Expo Go**, focused on simplifying the search, selection, and reservation of parking spaces in urban areas. It features an intuitive and responsive interface, designed with user experience as a priority.
 
-> ⚠️ *O projeto está em desenvolvimento. A versão atual representa o progresso até o momento.*
+> ⚠️ *This project is currently under development. The current version represents the progress so far.*
 
 ---
 
-## Projetos Colaborativos
+## Collaborative Projects
 
-### <img src="https://raw.githubusercontent.com/Otavig/MidiaIndoor/main/midias/87b12c69971a2c5ca116b86bc18c9ed4.png" width="50" height="50" /> [Mídia Indoor](https://github.com/Otavig/MidiaIndoor)  
-Projeto colaborativo desenvolvido no SENAI com foco na criação de uma plataforma de exibição de conteúdos digitais em ambientes fechados. Atuei em conjunto com outros alunos na implementação do sistema e estruturação do repositório.
+### <img src="https://raw.githubusercontent.com/Otavig/MidiaIndoor/main/midias/87b12c69971a2c5ca116b86bc18c9ed4.png" width="50" height="50" /> [Indoor Media](https://github.com/Otavig/MidiaIndoor)  
+A collaborative project developed at SENAI, focused on creating a digital content display platform for indoor environments. I worked alongside other students on system implementation and repository organization.
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Breno-Passarela/bio-power-system/main/website/src/imgs/img-logo-bio-power.png" width="50" height="50" /> [Bio-Power System](https://github.com/Breno-Passarela/bio-power-system)  
-Sistema desenvolvido para uma farmácia especializada em suplementos, com funcionalidades voltadas à gestão de produtos, informações nutricionais e controle de vendas. Projeto com foco em organização, usabilidade e performance.
+A system developed for a supplement-focused pharmacy, featuring functionalities for product management, nutritional information, and sales control. The project emphasizes organization, usability, and performance.
 
-> ⚠️ *O projeto está em desenvolvimento.*
+> ⚠️ *This project is currently under development.*
 
 ---
 
@@ -57,7 +58,11 @@ Sistema desenvolvido para uma farmácia especializada em suplementos, com funcio
 
 ---
 
-## 📬 Entre em contato comigo
+## 📬 Get in Touch
 
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/breno_freguglia/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/breno-freguglia-15329a307/)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/breno_freguglia/)
+
+**Discord:** `freguglia`
+
+---
