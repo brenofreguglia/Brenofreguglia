@@ -51,13 +51,6 @@ A system developed for a supplement-focused pharmacy, featuring functionalities 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenofreguglia&show_icons=true&theme=dark&hide_title=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofreguglia&layout=compact&theme=dark&hide_title=true" height="150"/>
-</div>
-
----
-
 ## 📬 Get in Touch
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/breno-freguglia-15329a307/)
