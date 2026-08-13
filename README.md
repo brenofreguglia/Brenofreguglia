@@ -37,6 +37,14 @@ A mobile application developed with **React Native** and **Expo Go**, focused on
 
 ---
 
+### <img src="https://github.com/brenofreguglia/Forma3D/blob/main/public/images/hero/printer.svg" width="30" height="30" /> [Forma3D](https://github.com/brenofreguglia/Forma3D)
+
+A web platform developed for **3D printing products**, focused on providing a simple and intuitive way to explore and showcase 3D printed products. The project features a product catalog, detailed product pages, 3D model visualization, and a responsive interface designed with user experience as a priority.
+
+> ⚠️ *This project is currently under development. The current version represents the progress so far.*
+
+---
+
 ## Collaborative Projects
 
 ### <img src="https://raw.githubusercontent.com/Otavig/MidiaIndoor/main/midias/87b12c69971a2c5ca116b86bc18c9ed4.png" width="50" height="50" /> [Indoor Media](https://github.com/Otavig/MidiaIndoor)  
