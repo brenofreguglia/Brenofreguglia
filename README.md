@@ -117,14 +117,14 @@ I'm interested in creating efficient and user-friendly solutions, with a focus o
   </tr>
   <tr>
     <td width="90" align="center" valign="middle">
-      <a href="https://github.com/Breno-Passarela/bio-power-system">
-        <img src="https://raw.githubusercontent.com/Breno-Passarela/bio-power-system/main/website/src/imgs/img-logo-bio-power.png" width="65" alt="Bio-Power System logo" />
+      <a href="https://github.com/Otavig/bio-power">
+        <img src="https://github.com/Otavig/bio-power/blob/main/Biopower/public/assets/imgs/img-logo-bio-power.png" width="65" alt="Bio-Power System logo" />
       </a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/Breno-Passarela/bio-power-system">Bio-Power System</a></h3>
+      <h3><a href="https://github.com/Otavig/bio-power">Bio-Power System</a></h3>
       <p>A collaborative management system for a supplement-focused pharmacy, covering products, nutritional information, and sales-related operations.</p>
-      <p><a href="https://github.com/Breno-Passarela/bio-power-system">View Repository</a></p>
+      <p><a href="https://github.com/Otavig/bio-power">View Repository</a></p>
     </td>
   </tr>
 </table>
